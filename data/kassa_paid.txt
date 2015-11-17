@@ -1,0 +1,37 @@
+a-karelsky@hotmail.com;[48];10000
+dimkat@gmail.com;[6];12000
+bellmsk@gmail.com;[18];42000
+roslov.anton@gmail.com;[2];10000
+elena.fomenko8@gmail.com;[65, 66, 51];40000
+andryuha-v@mail.ru;[80, 64, 75];32000
+intendia@gmail.com;[27];10000
+anton_palmov@mail.ru;[46];10000
+kkrasnoschekov@genplanmos.ru;[72, 73];22000
+susumanin@gmail.com;[34];22000
+pavel7ovchinnikov@gmail.com;[11];10000
+pro-maker@ya.ru;[22];42000
+junky.man@yandex.ru;[20];10000
+bendyna.ivan@gmail.com;[26];32000
+belskikh.aleksandr@gmail.com;[45];42000
+grayskripko@gmail.com;[15];42000
+korzhikdmitry@gmail.com;[83];12000
+a.l.shevchenko.ua@gmail.com;[5];22000
+antonkiselev@me.com;[59];10000
+belindr@mail.ru;[12];22000
+kirgush@gmail.com;[4];20000
+gaiar@baimuratov.ru;[78];12000
+ashmanov@gmail.com;[25];10000
+khusnutdinova.e@gmail.com;[3];10000
+aloha@74.ru;[29];12000
+vbokr@mail.ru;[57, 58, 9];40000
+ivan.girya@gmail.com;[19];10000
+adeykin90@gmail.com;[55];10000
+sergey.salnikov.dev@yandex.ru;[60, 77, 62];30000
+ni-ko-lay@mail.ru;[82, 61];22000
+441976@inbox.ru;[24];12000
+roman.zakharovp@gmail.com;[13];22000
+murashkin.alexandr@gmail.com;[16];12000
+bobrovviktor@gmail.com;[36, 47];22000
+atselikov@gmail.com;[39];20000
+frolova.victory@gmail.com;[74, 76];22000
+pavelpakhomov@gmail.com;[33, 69];32000
