@@ -1,6 +1,7 @@
 ## Курс языка Python и базовых алгоритмов и структур данных 
 Разработан в виде тетрадок IPython - удобное средство представления материала с интерактивным выполнением кода. 
-Инструкции по локальному развертыванию сервера Jupyter для использования тетрадок IPython представлены в тетрадке с обзором средств - python_lesson1_tools/lesson1_part1_python_intro_tools.ipynb (все очень просто).
+Инструкции по локальному развертыванию сервера Jupyter для использования тетрадок IPython представлены в [тетрадке](https://github.com/Yorko/python_intro/blob/master/python_lesson1_tools/lesson1_part1_python_intro_tools.ipynb) с обзором средств - python_lesson1_tools/lesson1_part1_python_intro_tools.ipynb.
+
 ### Урок 1. Введение в Python и средства разработки
 - Установка Anaconda и знакомство с интерпретатором Python
 - Обзор и настройка среды разработки PyCharm
