@@ -40,3 +40,5 @@
 - Рекурсия
 - Парадигма "Разделяй и Властвуй"
 - Разбор практических задач на рекурсию
+
+[Начать курс →](https://github.com/Yorko/python_intro/blob/master/python_lesson1_tools/lesson1_part1_python_intro_tools.ipynb)
