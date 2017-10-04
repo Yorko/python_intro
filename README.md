@@ -1,6 +1,10 @@
 ## Курс языка Python и базовых алгоритмов и структур данных 
-Разработан в виде тетрадок IPython - удобное средство представления материала с интерактивным выполнением кода. 
-Инструкции по локальному развертыванию сервера Jupyter для использования тетрадок IPython представлены в [тетрадке](https://github.com/Yorko/python_intro/blob/master/python_lesson1_tools/lesson1_part1_python_intro_tools.ipynb) с обзором средств - python_lesson1_tools/lesson1_part1_python_intro_tools.ipynb.
+![](https://habrastorage.org/files/b63/833/7a8/b638337a8df741af84ea0cae4cf110f9.png)
+
+В курсе рассматриваются основы програмирования на языке Python, а также есть материал про базовые алгоритмы и структуры данных. Более расширенная версия именно по основам Python – в [этом](https://github.com/cs-hse/ML_DM_HSE_minor) репозитории курса ВШЭ "Интеллектуальный анализ данных".
+
+Курс разработан в виде тетрадок Jupyter - это удобное средство представления материала с интерактивным выполнением кода. 
+Инструкции по локальному развертыванию сервера Jupyter для использования тетрадок представлены в [тетрадке](https://github.com/Yorko/python_intro/blob/master/python_lesson1_tools/lesson1_part1_python_intro_tools.ipynb) с обзором средств разработки.
 
 [Начать курс →](https://github.com/Yorko/python_intro/blob/master/python_lesson1_tools/lesson1_part1_python_intro_tools.ipynb)
 
